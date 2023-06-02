@@ -1,0 +1,12 @@
+*{
+  background-color: lightblue;
+}
+h1 {
+    color: black;
+    text-align: center;
+}
+a:hover, a:active {
+    background-color: rgb(201, 143, 109);
+}
+
+
